@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Currency-ecxhange/static/css/main.d6f8d820.chunk.css",
+    "main.js": "/Currency-ecxhange/static/js/main.e0994a2c.chunk.js",
+    "main.js.map": "/Currency-ecxhange/static/js/main.e0994a2c.chunk.js.map",
+    "runtime-main.js": "/Currency-ecxhange/static/js/runtime-main.c7a0d705.js",
+    "runtime-main.js.map": "/Currency-ecxhange/static/js/runtime-main.c7a0d705.js.map",
+    "static/js/2.1859a2e6.chunk.js": "/Currency-ecxhange/static/js/2.1859a2e6.chunk.js",
+    "static/js/2.1859a2e6.chunk.js.map": "/Currency-ecxhange/static/js/2.1859a2e6.chunk.js.map",
+    "index.html": "/Currency-ecxhange/index.html",
+    "static/css/main.d6f8d820.chunk.css.map": "/Currency-ecxhange/static/css/main.d6f8d820.chunk.css.map",
+    "static/js/2.1859a2e6.chunk.js.LICENSE.txt": "/Currency-ecxhange/static/js/2.1859a2e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7a0d705.js",
+    "static/js/2.1859a2e6.chunk.js",
+    "static/css/main.d6f8d820.chunk.css",
+    "static/js/main.e0994a2c.chunk.js"
+  ]
+}
